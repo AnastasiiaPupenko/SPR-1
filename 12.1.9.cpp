@@ -1,4 +1,5 @@
-//12.1.9
+//Funkcie nad maticovo reprezentovateľnými dátami
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
